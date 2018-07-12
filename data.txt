@@ -1,0 +1,4 @@
+Namer: mizraim
+Age: 34
+Favorite color:black
+Favorite song: do i wanna know?
